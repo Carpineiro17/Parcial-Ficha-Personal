@@ -1,0 +1,68 @@
+.frame-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #ef579d;
+    width: 1280px;
+    height: 129px;
+}
+.frame-item {
+    position: absolute;
+    top: 730px;
+    left: 0px;
+    background-color: #ef579d;
+    width: 1280px;
+    height: 102px;
+}
+.carofoto-1-icon {
+    position: absolute;
+    top: 166px;
+    left: 24px;
+    border-radius: 50px;
+    width: 377px;
+    height: 528px;
+    object-fit: cover;
+}
+.uade-1-icon {
+    position: absolute;
+    top: 745px;
+    left: 532px;
+    width: 216px;
+    height: 72px;
+    object-fit: cover;
+}
+.nombre-y-apellido {
+    margin: 0;
+}
+.nombre-y-apellido-container {
+    position: absolute;
+    top: 168px;
+    left: 471px;
+    display: inline-block;
+    width: 776px;
+    height: 472px;
+    padding-top: 10px;
+}
+.diseo-y-desarrollo {
+    position: absolute;
+    top: 33px;
+    left: 363px;
+    font-size: 50px;
+    font-family: Marcellus;
+    color: #fff;
+    display: inline-block;
+    width: 554px;
+    height: 62px;
+}
+.rectangle-parent {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 832px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #000;
+    font-family: Mandali;
+}
+
